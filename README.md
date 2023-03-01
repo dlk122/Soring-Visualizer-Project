@@ -15,3 +15,4 @@ Features:
 2.	3 Controls for visualizations 2.1) Speed of visualization (5 speed levels) 2.2) Data size () 2.3) Generation of new data (Randomly generate new data).
 3.	Time and Space complexity of algorithm being visualized.
 
+Take a look at live version: https://dlk122.github.io/Soring-Visualizer-Project/
